@@ -213,8 +213,7 @@ To πρόγραμμα ελέγχει αν το json αρχείο είναι στ
    "to": "toExample"
    "price": "priceExample"
    "hours": "hoursExample"
-
-}`
+  }`
 
 To πρόγραμμα ελέγχει αν το json αρχείο είναι στην σωστή μορφή.
 

@@ -32,11 +32,17 @@ Tο πρόγραμμα θα εκτελείται στην πόρτα 5000 μέσ
 
 ` {
         "email": "mariamavroeidi@gmail.com" ,
+        
         "username": "mariamav",
+        
         "fistname": "Maria",
+        
         "lastname": "Mavroeidi",
+        
         "password": "11111",
+        
         "passport": "323232121",
+        
         "category": "user"
     }`
     

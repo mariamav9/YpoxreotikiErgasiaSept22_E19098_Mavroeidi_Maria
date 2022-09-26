@@ -45,7 +45,7 @@ Tο πρόγραμμα θα εκτελείται στην πόρτα 5000 μέσ
         
         "category": "user"
         
-    }`
+   }`
     
 To πρόγραμμα ελέγχει αν το json αρχείο είναι στην σωστή μορφή  και τότε γίνεται η δημιουργία του χρήστη. 
 
@@ -64,6 +64,7 @@ To πρόγραμμα ελέγχει αν το json αρχείο είναι στ
         "username": "mariamav",
         
         "password": "11111"    
+        
   }` 
 
 To πρόγραμμα ελέγχει αν το json αρχείο είναι στην σωστή μορφή και τότε γίνεται η δημιουργία του χρήστη.
@@ -86,8 +87,11 @@ To πρόγραμμα ελέγχει αν το json αρχείο είναι στ
 
 `{
         "from": "city1" ,
+        
         "to": "city2",
-        "date": "date1"    
+        
+        "date": "date1" 
+        
   }` 
 
 To πρόγραμμα ελέγχει αν το json αρχείο είναι στην σωστή μορφή και τότε εμφανίζονται οι διαθέσιμες πτήσεις.
@@ -102,10 +106,15 @@ To πρόγραμμα ελέγχει αν το json αρχείο είναι στ
 
 `{
         "flightID": "id1" ,
+        
         "firstname": "name1",
-        "lastname": "lastname1"    
+        
+        "lastname": "lastname1"
+        
         "passport": "passport1"  
+        
         "card": "cardnumber1"  
+        
  }` 
 
 To πρόγραμμα ελέγχει αν το json αρχείο είναι στην σωστή μορφή.
@@ -199,8 +208,11 @@ To πρόγραμμα ελέγχει αν το json αρχείο είναι στ
 
 `{
    "email": "emailExample"
+   
    "firstname": "firstnameExample"
+   
    "lastname": "lastnameExample"
+   
    "adminCode": "adminCodeExample"
 
 }`
@@ -218,11 +230,17 @@ To πρόγραμμα ελέγχει αν το json αρχείο είναι στ
 Ο χρήστης θα δοθεί ως ένα json αρχείο της μορφής:
 
 `{
+
    "date": "dateExample"
+   
    "from": "fromExample"
+   
    "to": "toExample"
+   
    "price": "priceExample"
+   
    "hours": "hoursExample"
+   
   }`
 
 To πρόγραμμα ελέγχει αν το json αρχείο είναι στην σωστή μορφή.
@@ -238,8 +256,11 @@ To πρόγραμμα ελέγχει αν το json αρχείο είναι στ
 Ο χρήστης θα δοθεί ως ένα json αρχείο της μορφής:
 
 `{
+
    "flightID": "flightIDExample"
+   
    "newPrice": "newPriceExample"
+   
 }`
 
 To πρόγραμμα ελέγχει αν το json αρχείο είναι στην σωστή μορφή.

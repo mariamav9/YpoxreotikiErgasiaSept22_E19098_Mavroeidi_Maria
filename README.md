@@ -58,7 +58,9 @@ To πρόγραμμα ελέγχει αν το json αρχείο είναι στ
 
 `{
         "email": "mariamavroeidi@gmail.com" ,
+        
         "username": "mariamav",
+        
         "password": "11111"    
   }` 
 

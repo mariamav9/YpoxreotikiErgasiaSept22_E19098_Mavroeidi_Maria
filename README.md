@@ -22,7 +22,7 @@ Tο πρόγραμμα θα εκτελείται στην πόρτα 5000 μέσ
 <pre><code> docker container create </code></pre>
 
 
-## Web Service: Λειτουργίες Απλού Χρήστη
+## Web Service - Endpoints Απλού Χρήστη
 
 
 
@@ -229,12 +229,12 @@ To πρόγραμμα ελέγχει αν το json αρχείο είναι στ
 
 
 
-##Web Service: Λειτουργίες Διαχειριστή
+## Web Service - Endpoints Διαχειριστή
 
 
 
 
-###/addAdmin
+### /addAdmin
 Δίνοντας 0.0.0.0:5000/addAdmin με μέθοδο POST, μπορεί ένας admin να εισάγει εναν καινούριο admin. 
 
 Ο χρήστης θα δοθεί ως ένα json αρχείο της μορφής:

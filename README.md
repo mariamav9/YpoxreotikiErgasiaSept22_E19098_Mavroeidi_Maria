@@ -91,11 +91,11 @@ To πρόγραμμα ελέγχει αν το json αρχείο είναι στ
 Ο χρήστης θα δοθεί ως ένα json αρχείο της μορφής:
 
 `{
-   "flightID": "id1" ,
-   "firstname": "name1",
-   "lastname": "lastname1"    
-   "passport": "passport1"  
-   "card": "cardnumber1"  
+        "flightID": "id1" ,
+        "firstname": "name1",
+        "lastname": "lastname1"    
+        "passport": "passport1"  
+        "card": "cardnumber1"  
  }` 
 
 To πρόγραμμα ελέγχει αν το json αρχείο είναι στην σωστή μορφή.

@@ -32,10 +32,8 @@ Tο πρόγραμμα θα εκτελείται στην πόρτα 5000 μέσ
 
 `     
 
-
-
- { 
-        "email": "mariamavroeidi@gmail.com" ,
+ 
+  {     "email": "mariamavroeidi@gmail.com" ,
         
         "username": "mariamav",
         
@@ -47,8 +45,7 @@ Tο πρόγραμμα θα εκτελείται στην πόρτα 5000 μέσ
         
         "passport": "323232121",
         
-        "category": "user" 
-  }
+        "category": "user"      }
   
   
   

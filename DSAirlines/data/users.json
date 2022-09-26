@@ -1,0 +1,31 @@
+[
+    {
+        "email": "mariamavroeidi@gmail.com" ,
+        "username": "mariamav",
+        "fistname": "Maria",
+        "lastname": "Mavroeidi",
+        "password": "11111",
+        "passport": "323232121",
+        "category": "user"
+    }
+
+    ,{
+        "email": "melinazafeiri@gmail.com" ,
+        "username": "melinazaf",
+        "fistname": "Melina",
+        "lastname": "Zafeiri",
+        "password": "12345",
+        "passport": "543782537",
+        "category": "user"
+    }
+    
+    ,{
+        "email": "admin@gmail.com" ,
+        "username": "admin",
+        "fistname": "Melina",
+        "lastname": "Zafeiri",
+        "password": "admin",
+        "passport": "653742184",
+        "category": "admin"
+    }
+]

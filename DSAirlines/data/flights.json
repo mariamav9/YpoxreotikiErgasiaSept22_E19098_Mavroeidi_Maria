@@ -1,0 +1,42 @@
+[
+    {       
+        "date": "01/10/2022" ,
+        "from": "Athens",
+        "to": "Thessaloniki",
+        "price": "120e",
+        "hours": "9:00am",
+        "tickets_left": "100",
+        "flightID":"AT2210019"
+    }
+    
+    ,{       
+        "date": "29/09/2022" ,
+        "from": "Heraklion",
+        "to": "Athens",
+        "price": "110e",
+        "hours": "10:00pm",
+        "tickets_left": "81",
+        "flightID":"HA22092910"
+    }
+    
+    ,{       
+        "date": "01/10/2022" ,
+        "from": "Athens",
+        "to": "Kypros",
+        "price": "250e",
+        "hours": "5:00am",
+        "tickets_left": "13",
+        "flightID":"AK2210015"
+    }
+    
+    ,{       
+        "date": "27/09/2022" ,
+        "from": "Athens",
+        "to": "Rodos",
+        "price": "1800e",
+        "hours": "12:00am",
+        "tickets_left": "59",
+        "flightID":"AR22092712"
+    }
+
+]

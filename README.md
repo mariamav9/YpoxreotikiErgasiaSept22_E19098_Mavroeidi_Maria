@@ -65,15 +65,16 @@ To πρόγραμμα ελέγχει αν το json αρχείο είναι στ
 Ο χρήστης θα δοθεί ως ένα json αρχείο της μορφής:
 
 `
-{
 
-        "email": "mariamavroeidi@gmail.com" ,
+{
+     "email": "mariamavroeidi@gmail.com" ,
         
-        "username": "mariamav",
+      "username": "mariamav",
         
-        "password": "11111"    
+      "password": "11111"    
         
-  }
+  } 
+  
   ` 
 
 To πρόγραμμα ελέγχει αν το json αρχείο είναι στην σωστή μορφή και τότε γίνεται η δημιουργία του χρήστη.

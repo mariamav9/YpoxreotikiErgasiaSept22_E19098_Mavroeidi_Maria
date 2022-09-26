@@ -30,11 +30,7 @@ Tο πρόγραμμα θα εκτελείται στην πόρτα 5000 μέσ
 
 Ο χρήστης θα δοθεί ως ένα json αρχείο της μορφής:
 
-`  
-
-{
-
-        "email": "mariamavroeidi@gmail.com" ,
+`{ "email": "mariamavroeidi@gmail.com" ,
         
         "username": "mariamav",
         
